@@ -116,7 +116,7 @@ WebAssembly.
 
 ## Let's talk
 
-I am interested in Staff and Principal engineering opportunities involving
+I am interested in Senior and Staff engineering opportunities involving
 performance-critical systems, distributed infrastructure, developer platforms,
 databases, search, or technically demanding product engineering.
 
