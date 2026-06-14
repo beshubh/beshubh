@@ -44,7 +44,7 @@ handling **~1 billion requests per day**, and reduced CPU usage by as much as
 Earlier in my career, I designed and implemented the complete backend for a
 course-hosting platform used by **100K+ students** across India.
 
-## Selected systems projects
+## Systems projects
 
 I build foundational systems to understand their algorithms, data structures,
 protocols, and failure modes from first principles.
@@ -94,20 +94,6 @@ WebAssembly.
 - [distsys-rust](https://github.com/beshubh/distsys-rust): Implementations of
   Raft consensus, a fault-tolerant key-value service, Percolator-style
   transactions, RPC infrastructure, and linearizability checking.
-
-## Engineering focus
-
-- **Performance:** Profiling, latency reduction, memory efficiency, concurrency,
-  and low-overhead Rust services.
-- **Distributed systems:** Kafka, queues, failure isolation, circuit breakers,
-  backpressure, databases, caches, and high-volume service architecture.
-- **Algorithms and data structures:** Search indexes, external-memory
-  algorithms, storage engines, parsers, interpreters, and competitive
-  programming.
-- **Product engineering:** Turning ambiguous business problems into reliable
-  systems with measurable revenue and customer impact.
-- **Technical leadership:** Architecture reviews, cross-team execution,
-  mentoring, testing strategy, and production ownership.
 
 ## Tools I reach for
 
