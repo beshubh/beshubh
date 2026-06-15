@@ -6,8 +6,8 @@ I build high-throughput systems, remove performance bottlenecks, and turn hard
 infrastructure problems into measurable business outcomes.
 
 At [LimeChat AI](https://www.limechat.ai/), I grew from SDE I to Principal
-Software Engineer through three promotions. My work has contributed to **$1.6M
-in additional annual revenue**, eliminated peak-traffic downtime from systems
+Software Engineer through three promotions. My work has contributed to **Millions of USD
+in company annual revenue**, eliminated peak-traffic downtime from systems
 handling **~1 billion requests per day**, and reduced CPU usage by as much as
 **80%** in latency-sensitive production workloads.
 
