@@ -1,48 +1,6 @@
 # Shubham Kumar
 
-### Software Engineer | Distributed Systems | Performance Engineering | Rust
-
-I build high-throughput systems, remove performance bottlenecks, and turn hard
-infrastructure problems into measurable business outcomes.
-
-At [LimeChat AI](https://www.limechat.ai/), I grew from SDE I to Principal
-Software Engineer through three promotions. My work has contributed to **Millions of USD
-in company annual revenue**, eliminated peak-traffic downtime from systems
-handling **~1 billion requests per day**, and reduced CPU usage by as much as
-**80%** in latency-sensitive production workloads.
-
-[![Email](https://img.shields.io/badge/Email-bshubh%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:bshubh@proton.me)
-[![Writing](https://img.shields.io/badge/Writing-zerocpy.substack.com-FF6719?style=flat-square&logo=substack&logoColor=white)](https://zerocpy.substack.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-beshubh-181717?style=flat-square&logo=github)](https://github.com/beshubh)
-
-## Production impact
-
-- **Generated revenue:** Led the engineering of a unified messaging service and
-  an AI Voice Agents platform that contributed to **$1.6M in additional annual
-  revenue**.
-- **Rebuilt a critical real-time path in Rust:** Developed a low-latency audio
-  bridge between WhatsApp and LiveKit that reduced **CPU usage by 80%** and
-  **memory consumption by 50%** compared with the previous Python service.
-- **Engineered for billion-request scale:** Eliminated peak-traffic downtime
-  across three high-volume projects handling **~1B daily requests** by replacing
-  Redis queues with Kafka and adding circuit breakers around queues, databases,
-  and caches.
-- **Cut user-facing latency by 66%:** Reduced chat-agent peak latency from
-  **15 seconds to 5 seconds** through semantic caching and the removal of read
-  query fanout.
-- **Removed a major PostgreSQL bottleneck:** Introduced centralized connection
-  pooling with PgBouncer, reduced application contention from **5,000 to fewer
-  than 3,000 connections**, and lowered database CPU usage by **60%**.
-- **Made revenue attributable:** Architected a TypeScript link-shortening and
-  tracking service that processes **1M+ unique links per day** and attributes
-  **50% of annual broadcast revenue**.
-- **Delivered through leadership:** Led a three-engineer team that shipped three
-  revenue-critical systems in under three months. I also raised backend test
-  coverage above **80%** and established stronger testing and code-review
-  practices.
-
-Earlier in my career, I designed and implemented the complete backend for a
-course-hosting platform used by **100K+ students** across India.
+Working on distributed systems and performance.
 
 ## Systems projects
 
