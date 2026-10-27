@@ -4,8 +4,8 @@
 
 ### Backend · Infrastructure · Platform Engineer
 
-**Distributed systems, reliability engineering and database internals.**<br>
-Former Principal Engineer at LimeChat (YC W21): systems serving **1B+ requests a day**.
+**Distributed systems, Infrastructure engineering and database internals.**<br>
+Former Principal Engineer at LimeChat (YC W21)**.
 
 <br>
 
